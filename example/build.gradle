@@ -13,7 +13,7 @@ def getDate() {
 }
 
 def computeVersionName(label) {
-    return "1.0 SD"
+    return "1.0"
 }
 
 android {
